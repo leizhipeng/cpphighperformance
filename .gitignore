@@ -31,11 +31,8 @@
 *.out
 *.app
 
-# build folder
-*/build
-
-# Generated output
-/output/
+# CMake build directories
+build/
 
 # vscode
 .vscode

@@ -34,5 +34,8 @@
 # build folder
 */build
 
+# Generated output
+/output/
+
 # vscode
 .vscode
